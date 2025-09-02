@@ -1,0 +1,7 @@
+## Official Grifts Typography Guide: V1.0
+​Headline Font: Permanent Marker
+​Usage: For all primary headings on the website (H1, H2), promotional banners, and anywhere we need to inject brand personality.
+​Logotype: Custom Jagged
+​Usage: The font within the logo itself is treated as a unique piece of art. We will not use it for regular text.
+​Body Font: Lato
+​Usage: For all paragraphs, descriptions, and smaller text. Lato is a clean, friendly, and highly readable sans-serif font that will pair perfectly with the boldness of Permanent Marker

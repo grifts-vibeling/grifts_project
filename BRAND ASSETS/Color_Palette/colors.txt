@@ -1,0 +1,14 @@
+​## Official Grifts Color Palette: V1.0
+​Here is the standardized palette, forged directly from your logo.
+​🟣 Neon Pulse Purple
+​#BE34D5
+​Usage: The core purple. Ideal for primary gradients, bold accents, and high-energy elements that need to pop.
+​🔵 Electric Cyan
+​#21E8F2
+​Usage: The vibrant blue highlight. Perfect for the "cool" end of gradients, call-to-action buttons, and futuristic UI elements.
+​⚫ Void Black
+​#101012
+​Usage: Our primary background. It's a deep, near-black that makes the neon colors vibrate with energy. Much richer than pure #000000.
+​⚪️ Starlight
+​#F0F8FF
+​Usage: The color of the magical sparkles. To be used sparingly for highlights, special effects, and clean, crisp text on dark backgrounds.
